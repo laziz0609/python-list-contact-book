@@ -8,6 +8,14 @@
 
 Ilova kontaktlarni `list[tuple]` formatida saqlaydi va ular ustida turli amallarni bajarishga imkon beradi.
 
+example:
+```python
+contacts = [
+  ('ali', '+998901221212', 'ali@gmail.com'),
+  ('vali', '+99890122131', 'vali@gmail.com'),
+]
+```
+
 ---
 
 ### ⚙️ Asosiy imkoniyatlar
